@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gayatris220688/demogay/_apis/build/status/demogay-CI?branchName=master)](https://dev.azure.com/gayatris220688/demogay/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
